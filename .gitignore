@@ -19,4 +19,4 @@ pyright_errors.txt
 # IDE and OS files
 .vscode/
 .DS_Store
-.agent/
+# .agent/ is now included
