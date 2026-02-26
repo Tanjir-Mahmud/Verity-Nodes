@@ -1,0 +1,22 @@
+# ENV files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+backend/.venv/
+__pycache__/
+
+# Build and logs
+.next/
+dist/
+out/
+build/
+*.log
+pyright_errors.txt
+
+# IDE and OS files
+.vscode/
+.DS_Store
+.agent/
